@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.0.7",
+    "versionCode":  11,
+    "versionName":  "1.0.10",
     "releaseNotes":  "Primera version de ChiliniskyParty con salas P2P.",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-party-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-party-updates/releases/download/v1.0.7/chilinisky-party-mobile-v8.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-party-updates/releases/download/v1.0.7/chilinisky-party-tv-v8.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-party-updates/releases/download/v1.0.10/chilinisky-party-mobile-v11.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-party-updates/releases/download/v1.0.10/chilinisky-party-tv-v11.apk"
 }
