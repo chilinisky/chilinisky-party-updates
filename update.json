@@ -1,0 +1,8 @@
+{
+    "versionCode":  86,
+    "versionName":  "1.3.67",
+    "releaseNotes":  "Primera version de ChiliniskyParty con salas P2P.",
+    "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-party-updates/main/catalog.json",
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-party-updates/releases/download/v1.3.67/chilinisky-party-mobile-v86.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-party-updates/releases/download/v1.3.67/chilinisky-party-tv-v86.apk"
+}
